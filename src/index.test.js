@@ -1,4 +1,4 @@
 test('testing api', () => {
     const result = 1 + 1;
-    expect(result).toBe(2);
+    expect(result).toBe(3);
 })
