@@ -1,4 +1,4 @@
-name: NODE CI
+name: NODE Continous Integration
 
 on: 
   pull_request:
