@@ -1,7 +1,7 @@
 name: NODE CI
 
 on: 
-    pull_request:
+  pull_request:
     branches:
       - main
 
